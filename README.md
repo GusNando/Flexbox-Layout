@@ -1,5 +1,5 @@
 # Flexbox Layout Practice
-PORTAIT
+## PORTAIT
 ![screenshot portait](https://github.com/GusNando/Flexbox-Layout/blob/master/screenshot/ss.png)
-LANDSCAPE
+## LANDSCAPE
 ![screenshot landscape](https://github.com/GusNando/Flexbox-Layout/blob/master/screenshot/ss2.png)
